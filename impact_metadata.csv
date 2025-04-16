@@ -1,5 +1,0 @@
-metric,full_name,importance,data_source
-mean_ghgs,Greenhouse gas emissions (kg CO2-eq/day),High,IPCC
-mean_land,Land use (m²/year),High,FAO
-mean_watscar,Water scarcity (liters/day),Medium,WaterFootprint
-mean_eut,Eutrophication (g PO4-eq/day),Medium,EPA

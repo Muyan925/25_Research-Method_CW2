@@ -1,7 +1,0 @@
-diet_group,diet_category,meat_consumption_mean,description
-vegan,plant_based,0.3,No animal products 
-veggie,vegetarian,0.4,"Includes dairy and eggs, no meat "
-fish,pescatarian,2.0,"Includes fish, theoretically no meat "
-meat50,low_meat,28.3,Average meat intake 28.3 g/day (<50 g/day)
-meat,medium_meat,74.0,Average meat intake 74.0 g/day (50-99 g/day)
-meat100,high_meat,140.0,Average meat intake 140 g/day (≥100 g/day)
